@@ -1,0 +1,25 @@
+{
+  "name": "dodd_lopez_homework1",
+  "version": "1.0.0",
+  "description": "Extra credit in class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanJamesDodd/Dodd_Lopez_Homework1.git"
+  },
+  "author": "Ethan, Christine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanJamesDodd/Dodd_Lopez_Homework1/issues"
+  },
+  "homepage": "https://github.com/EthanJamesDodd/Dodd_Lopez_Homework1#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.1"
+  }
+}
